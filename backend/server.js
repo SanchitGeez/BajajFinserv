@@ -28,9 +28,9 @@ app.post('/bfhl', (req, res) => {
     // Create the response object
     const response = {
         "is_success": true,
-        "user_id": "john_doe_17091999",
-        "email": "john@xyz.com",
-        "roll_number": "ABCD123",
+        "user_id": "sanchit_gupta_20062003",
+        "email": "sanchit3546@gmail.com",
+        "roll_number": "21BEC0942",
         "numbers": numbers,
         "alphabets": alphabets,
         "highest_lowercase_alphabet": highestLowercaseAlphabet
